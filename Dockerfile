@@ -1,2 +1,2 @@
-FROM quay.io/calico/typha:v0.7.4
+FROM quay.io/calico/typha:v3.4.0
 MAINTAINER xxqin <xxqin@iflytek.com>
